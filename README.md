@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yash Srivastava<br>Developer | Below-Average Editor, UI/UX Designer & Animator (but hey, effort counts!)<br><br>Hey there! I'm Yash Srivastava, a developer turning ideas into digital reality (and occasionally pretending to be an artist).<br><br>Tech Stack:<br><br>Experienced in Python, JavaScript, and C++<br>Skilled in web development with HTML, CSS, and React<br>Wannabe AI and Machine Learning expert<br>Let's innovate (or at least try)! 🚀
+Yash Srivastava<br>Developer | Below-Average Editor, UI/UX Designer & Animator (but still trying to make it work!)<br><br>Hey there! I'm Yash Srivastava, a developer turning ideas into digital reality (and occasionally pretending to be an artist).<br><br>Tech Stack:<br><br>Experienced in Python, JavaScript, and C++<br>Skilled in web development with HTML, CSS, and React<br>Wannabe AI and Machine Learning expert<br>Let's innovate (or at least try)! 🚀
 
 
 ## 🌐 Socials:
